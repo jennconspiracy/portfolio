@@ -1,6 +1,14 @@
 # portfolio
 Technical Writing Samples
 
+
+## MSIS Coursework
+
+Reports and lab work from Northeastern's Master of Science in Information Systems (MSIS) 
+program, demonstrating hands-on technical work across cybersecurity and software testing 
+disciplines — tool evaluation, root-cause analysis, and critical assessment grounded in 
+real lab environments rather than theoretical exercises alone.
+
 ## DAMG7350 – Cybersecurity
 
 For DAMG7350, I built hands-on experience across the core domains of a cybersecurity 
@@ -38,3 +46,14 @@ results, and a critical assessment of the tool.
 - **UI / functional test automation** (Katalon + AI integration) — [`CLARK-M08-CSYE6255-Lab-V2.pdf`](coursework/TESTING/CLARK-M08-CSYE6255-Lab-V2.pdf)
 - **Capture & replay testing** (Selenium) — [`CLARK-M05-CSYE6255-Lab.pdf`](coursework/TESTING/CLARK-M05-CSYE6255-Lab.pdf)
 - **Usability testing** (Maze & Useberry) — [`CLARK-M13-CSYE6255-Lab.pdf`](coursework/TESTING/CLARK-M13-CSYE6255-Lab.pdf)
+
+- ## Other Coursework & Certifications
+### Agile Coaching & Organizational Systems Thinking
+
+Completed as part of the Enterprise Coach Mastercamp (ICP-ENT/ICP-CAT certification track) 
+through The Collective Edge, focused on systems-level organizational change and agile 
+transformation coaching. This case study analysis demonstrates stakeholder mapping, RACI 
+planning, and use of frameworks like Systems Entry, Integral Theory, and the Adaptive Action 
+Paradigm to structure an initial organizational assessment.
+
+- **Case study: agile transformation assessment for a fictional bank** — [`ICP-ENT-FINAL_CLARK_2022-04-13.pdf`](certifications/AGILE/ICP-ENT-FINAL_CLARK_2022-04-13.pdf)
