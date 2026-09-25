@@ -1,15 +1,16 @@
 # portfolio
 Technical Writing Samples
 
+## Northeastern University
 
-## MSIS Coursework
+### MSIS Program
 
 Reports and lab work from Northeastern's Master of Science in Information Systems (MSIS) 
 program, demonstrating hands-on technical work across cybersecurity and software testing 
 disciplines — tool evaluation, root-cause analysis, and critical assessment grounded in 
 real lab environments rather than theoretical exercises alone.
 
-## DAMG7350 – Cybersecurity
+#### DAMG7350 – Cybersecurity
 
 For DAMG7350, I built hands-on experience across the core domains of a cybersecurity 
 program — from data protection and cryptography to network defense, identity management, 
@@ -31,7 +32,7 @@ industry-standard tools.
 - **OWASP threat modeling & secure coding** — [`CLARK-DAMG7350-M13-Assignment-FINAL.pdf`](coursework/CYBERSECURITY/CLARK-DAMG7350-M13-Assignment-FINAL.pdf), [`CLARK-DAMG7350-M13-Lab.pdf`](coursework/CYBERSECURITY/CLARK-DAMG7350-M13-Lab.pdf)
 - **Final project: cybersecurity program design for a FinTech startup** *(group project — primary contributor)* — [`v1-DAMG7350-Group02-FINAL-PROJECT-PAPER-Final.pdf`](coursework/CYBERSECURITY/v1-DAMG7350-Group02-FINAL-PROJECT-PAPER-Final.pdf)
 
-## CSYE6255 – Software Testing for Engineers
+#### CSYE6255 – Software Testing for Engineers
 
 For CSYE6255, I built hands-on fluency with the testing toolchain a real QA/SDET team 
 would use — evaluating each tool's strengths, limitations, and best-fit use case rather 
@@ -47,7 +48,24 @@ results, and a critical assessment of the tool.
 - **Capture & replay testing** (Selenium) — [`CLARK-M05-CSYE6255-Lab.pdf`](coursework/TESTING/CLARK-M05-CSYE6255-Lab.pdf)
 - **Usability testing** (Maze & Useberry) — [`CLARK-M13-CSYE6255-Lab.pdf`](coursework/TESTING/CLARK-M13-CSYE6255-Lab.pdf)
 
+### AI Applications Certification
+
+#### MISM6250 – Strategic AI for Business
+
+For MISM6250, I applied strategic business frameworks — value chain analysis, PESTEL, 
+Porter's Five Forces, causal inference, and unsupervised/NLP techniques — to a real 
+company (Abbott Diabetes Care), building a throughline from high-level strategy to a 
+proposed AI-powered chatbot solution across the semester.
+
+- **Value chain analysis & AI integration strategy** — [`CLARK-JR-MISM6250_M1_Report.pdf`](certifications/AIAPPS/CLARK-JR-MISM6250_M1_Report.pdf)
+- **PESTEL & Porter's Five Forces industry analysis** — [`CLARK-JR-MISM6250_M2_Report-FINAL.pdf`](certifications/AIAPPS/CLARK-JR-MISM6250_M2_Report-FINAL.pdf)
+- **Cluster analysis for customer support optimization** — [`CLARK-JR-MISM6250_M3_Report_FINAL.pdf`](certifications/AIAPPS/CLARK-JR-MISM6250_M3_Report_FINAL.pdf)
+- **A/B testing & causal inference for conversion optimization** — [`CLARK_MISM6250_M4_Report.pdf`](certifications/AIAPPS/CLARK_MISM6250_M4_Report.pdf)
+- **Sentiment analysis & language modeling for customer support** — [`CLARK-MISM6250_M5_Report-v1.pdf`](certifications/AIAPPS/CLARK-MISM6250_M5_Report-v1.pdf)
+- **Final proposal: bias-aware AI chatbot design** — [`CLARK-M7-Presentation.pdf`](certifications/AIAPPS/CLARK-M7-Presentation.pdf)
+
 ## Other Coursework & Certifications
+
 ### Agile Coaching & Organizational Systems Thinking
 
 Completed as part of the Enterprise Coach Mastercamp (ICP-ENT/ICP-CAT certification track) 
