@@ -47,7 +47,7 @@ results, and a critical assessment of the tool.
 - **Capture & replay testing** (Selenium) — [`CLARK-M05-CSYE6255-Lab.pdf`](coursework/TESTING/CLARK-M05-CSYE6255-Lab.pdf)
 - **Usability testing** (Maze & Useberry) — [`CLARK-M13-CSYE6255-Lab.pdf`](coursework/TESTING/CLARK-M13-CSYE6255-Lab.pdf)
 
-- ## Other Coursework & Certifications
+## Other Coursework & Certifications
 ### Agile Coaching & Organizational Systems Thinking
 
 Completed as part of the Enterprise Coach Mastercamp (ICP-ENT/ICP-CAT certification track) 
