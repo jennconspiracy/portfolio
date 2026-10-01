@@ -5,7 +5,7 @@ Selected technical work from my MS in Information Systems (focus: governance,
 risk, and compliance) and graduate certificate in AI at Northeastern:
 security and testing labs, tool evaluations, and a strategic AI proposal.
 
-LinkedIn: [https://linkedin.com/in/jenniferraeclark](linkedin.com/in/jenniferraeclark)
+LinkedIn: [linkedin.com/in/jenniferraeclark](https://linkedin.com/in/jenniferraeclark)
 
 ## Northeastern University
 
