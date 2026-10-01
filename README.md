@@ -1,5 +1,5 @@
 # portfolio
-Technical Writing Samples
+Jennifer R Clark - Academic & Technical Writing Samples
 
 ## Northeastern University
 
