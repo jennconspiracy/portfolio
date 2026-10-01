@@ -1,5 +1,11 @@
-# portfolio
-Jennifer R Clark - Academic & Technical Writing Samples
+# Jennifer R Clark
+Technical Program Manager · Digital Platforms, Governance & Delivery
+
+Selected technical work from my MS in Information Systems (focus: governance,
+risk, and compliance) and graduate certificate in AI at Northeastern:
+security and testing labs, tool evaluations, and a strategic AI proposal.
+
+LinkedIn: linkedin.com/in/jenniferraeclark
 
 ## Northeastern University
 
